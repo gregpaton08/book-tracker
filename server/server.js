@@ -1,5 +1,7 @@
 var express = require('express')
+var bodyParser = require('body-parser')
 var app = express()
+app.use(bodyParser.json())
 
 app.listen(3000, () => {
   console.log("Server running on port 3000");
@@ -21,4 +23,9 @@ var books = [
 
 app.get("/books", (req, res, next) => {
   res.json(books)
+})
+
+app.post('/books', (req, res) => {
+  console.log(req.body)
+  res.sendStatus(200)
 })
