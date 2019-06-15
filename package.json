@@ -13,11 +13,15 @@
     "url": "git+ssh://git@github.com/gregpaton08/book-tracker.git"
   },
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "firebase": "^6.2.0",
+    "mongodb": "^3.1.12",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
+    "react-icons": "^3.7.0",
     "react-scripts": "2.1.3",
-    "express": "^4.16.4",
-    "mongodb": "^3.1.12"
+    "shards-react": "^1.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
