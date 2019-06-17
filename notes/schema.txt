@@ -1,0 +1,10 @@
+Tentative schema
+
+
+book {
+  title: [string],
+  author: [string],
+  priority: [number],
+  rank: [number]
+  tags: [array([string])]
+}
