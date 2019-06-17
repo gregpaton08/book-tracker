@@ -7,6 +7,13 @@ firebase.initializeApp({
   projectId: 'book-tracker-f94c9'
 })
 
+
+var provider = new firebase.auth.GoogleAuthProvider();
+
+export const login = () => {
+  firebase.auth().signInWithRedirect(provider)
+}
+
 var db = firebase.firestore()
 
 export const readBooks = () => {
