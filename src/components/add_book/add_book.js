@@ -1,5 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { Link } from "react-router-dom"
+
+import { readBooks, addBook, login } from  '../../database_connection'
 
 export class AddBook extends React.Component {
   constructor(props) {
@@ -49,9 +52,18 @@ export class AddBook extends React.Component {
         </div>
         <div>
           <input value='Add' type='submit' />
+          <Link to='/'>
+            <input value='Cancel' type='button' />
+          </Link>
         </div>
       </form>
     )
+  }
+}
+
+AddBook.defaultProps = {
+  onAddBook: (book) => {
+    addBook(book.title, book.author)
   }
 }
 

@@ -1,7 +1,6 @@
 import React from 'react'
-import { readBooks, addBook, login } from  '../../database_connection'
-import { BrowserRouter as Router, Route, Link } from "react-router-dom"
-import { AddBook } from '../add_book'
+import { readBooks, logout } from  '../../database_connection'
+import { Link } from "react-router-dom"
 import { BookList } from '../book_list'
 
 export class Dashboard extends React.Component {
@@ -28,16 +27,19 @@ export class Dashboard extends React.Component {
       books
     })))
   }
-  
+
   render() {
     return (
       <div>
-        <button onClick={login}>Login</button>
         <Link to='/add_book'>Add Book</Link>
-        <AddBook onAddBook={(book) => {
-          addBook(book.title, book.author)
-          this.fetchBooks()
-        }} />
+        <Link
+          to={() => {
+            logout()
+            return '/login'
+          }}
+        >
+          Logout
+        </Link>
         <BookList books={this.state.books} />
       </div>
     )

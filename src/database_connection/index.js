@@ -10,8 +10,21 @@ firebase.initializeApp({
 
 var provider = new firebase.auth.GoogleAuthProvider();
 
+console.warn(firebase.auth().currentUser)
+
+export const getUser = () => console.error('user = ', firebase.auth().currentUser)
+
 export const login = () => {
   firebase.auth().signInWithRedirect(provider)
+  .then(() => console.error('user = ', firebase.auth().currentUser))
+}
+
+export const logout = () => {
+  firebase.auth().signOut().then(function() {
+    // Sign-out successful.
+  }).catch(function(error) {
+    // An error happened.
+  })
 }
 
 var db = firebase.firestore()
