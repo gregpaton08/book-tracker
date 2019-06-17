@@ -8,3 +8,7 @@ tbody {
 thead tr {
   display: block;
 }
+
+td {
+  text-align: left;
+}
