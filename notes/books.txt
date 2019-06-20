@@ -1,0 +1,406 @@
+Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans
+Tim Cook: The Genius Who Took Apple to the Next Level, Leander Kahney
+Discipline Equals Freedom: Field Manual, Jocko Willink
+The Psychology of Computer Programming, Gerald Weinberg
+The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't, Robert Sutton
+I Will Teach You To Be Rich, Ramit Sethi
+The Linux Programming Interface: A Linux and UNIX System Programming Handbook, Michael Kerrisk
+
+
+A Farewell to Arms, Ernest Hemingway
+Pride and Prejudice, Jane Austen
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything, Steven D. Levitt
+Thinking, Fast and Slow, Daniel Kahneman
+Berlin Diary: The Journal of a Foreign Correspondent 1934-1941, William L. Shirer
+Doing Battle: The Making of a Skeptic, Paul Fussell
+Average Is Over: Powering America Beyond the Age of the Great Stagnation, Tyler Cowen
+Race Against the Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy, Erik Brynjolfsson (Author), Andrew McAfee
+The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson
+Mindset: The New Psychology of Success, Carol S. Dweck
+AI Superpowers: China, Silicon Valley, and the New World Order, Kai-Fu Lee
+Nudge: Improving Decisions About Health, Wealth, and Happiness, Richard H. Thaler (Author), Cass R. Sunstein (Author) 
+The Lean Startup, by Eric Ries
+The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, Chris McChesney, Jim Huling, and Sean Covey
+The Landmarks of Tomorrow, Peter Drucker
+How Children Succeed: Grit, Curiosity, and the Hidden Power of Character, Paul Tough
+The Algorithm Design Manual, Steven Skiena
+Rapt: Attention and the Focused Life, Winifred Gallagher
+The Intellectual Life: Its Spirit, Conditions, Methods, Antonin Sertillanges
+The Elements of Statistical Learning, Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+The Hundred-Page Machine Learning Book, Andriy Burkov
+Liquid Rules: The Delightful and Dangerous Substances That Flow Through Our Lives, Mark Miodownik
+Rework Hardcover, Jason Fried, David Heinemeier Hansson 
+The Double Helix: A Personal Account of the Discovery of the Structure of DNA, James D. Watson
+So Good They Can't Ignore You, Cal Newport
+Bartlett's Familiar Quotations, Geoffrey O'Brien 
+The Owner's Manual for the Brain, Pierce Howard
+Flow: The Psychology of Optimal Experience, Mihaly Csikszentmihalyi
+The Energy Bus, Jon Gordon
+Coach Wooden's Pyramid of Success, John Wooden
+Not Everyone Gets A Trophy, Bruce Tulgan
+One Word That Will Change Your Life, Jon Gordon
+The No Complaining Rule: Positive Ways to Deal with Negativity at Work, Jon Gordon
+Your Money or Your Life, Vicki Robin
+Goodbye, Things: The New Japanese Minimalism,  Fumio Sasaki
+Small Fry	Small Fry, Lisa Brennan-Jobs (Paperback)
+How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence	How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence, Michael Pollan (Paperback)
+Frederick Douglass: Prophet of Freedom	Frederick Douglass: Prophet of Freedom, David W. Blight (Paperback)
+American Prison: A Reporter's Undercover Journey into the Business of Punishment	American Prison: A Reporter's Undercover Journey into the Business of Punishment, Shane Bauer (Paperback)
+Washington Black	Washington Black, Esi Edugyan (Paperback)
+There There	There There, Tommy Orange (Paperback)
+The Perfect Nanny: A Novel	The Perfect Nanny: A Novel, Leila Slimani (Paperback)
+The Great Believers: A Novel	The Great Believers: A Novel, Rebecca Makkai (Paperback)
+Asymmetry: A Novel	Asymmetry: A Novel, Lisa Halliday (Paperback)
+Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think	Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think, Hans Rosling, Anna Rosling Rönnlund (Hardcover)
+Origin Story: A Big History of Everything	Origin Story: A Big History of Everything, David Christian (Paperback)
+Lincoln in the Bardo: A Novel	Lincoln in the Bardo: A Novel, George Saunders (Paperback)
+Everything Happens for a Reason: And Other Lies I've Loved	Everything Happens for a Reason: And Other Lies I've Loved, Kate Bowler (Paperback)
+Leonardo da Vinci	Leonardo da Vinci, Walter Isaacson (Hardcover)
+Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone	Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone, Brené Brown (Hardcover)
+Letting Go: The Pathway of Surrender	Letting Go: The Pathway of Surrender, David R. Hawkins M.D. Ph.D (Paperback)
+The Power of Starting Something Stupid	The Power of Starting Something Stupid, Richie Norton (Hardcover)
+The Power of Intention	The Power of Intention, Dr. Wayne W. Dyer (Paperback)
+As a Man Thinketh	As a Man Thinketh, James Allen (Paperback)
+The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living	The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living, Ryan Holiday, Stephen Hanselman (Hardcover)
+Essentialism: The Disciplined Pursuit of Less	Essentialism: The Disciplined Pursuit of Less, Greg McKeown (Hardcover)
+Should We Eat Meat?: Evolution and Consequences of Modern Carnivory	Should We Eat Meat?: Evolution and Consequences of Modern Carnivory, Vaclav Smil (Paperback)
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions	What If?: Serious Scientific Answers to Absurd Hypothetical Questions, Randall Munroe (Hardcover)
+Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened	Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened, Allie Brosh (Paperback)
+Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World	Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World, Mark Miodownik, Sarah Scarlett (Paperback)
+Epic Measures: One Doctor. Seven Billion Patients.	Epic Measures: One Doctor. Seven Billion Patients., Jeremy N. Smith (Hardcover)
+How to Lie with Statistics	How to Lie with Statistics, Darrell Huff, Irving Geis (Paperback)
+How Asia Works	How Asia Works, Joe Studwell (Paperback)
+The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism	The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism, Doris Kearns Goodwin (Hardcover)
+Business Adventures: Twelve Classic Tales from the World of Wall Street	Business Adventures: Twelve Classic Tales from the World of Wall Street, John Brooks (Paperback)
+The Man Who Fed the World	The Man Who Fed the World, Leon Hesser (Paperback)
+The Better Angels of Our Nature: Why Violence Has Declined	The Better Angels of Our Nature: Why Violence Has Declined, Steven Pinker (Paperback)
+Stress Test: Reflections on Financial Crises	Stress Test: Reflections on Financial Crises, Timothy F. Geithner (Paperback)
+The Sixth Extinction: An Unnatural History	The Sixth Extinction: An Unnatural History, Elizabeth Kolbert (Paperback)
+Making the Modern World - Materials and Dematerialization	Making the Modern World - Materials and Dematerialization, Vaclav Smil (Paperback)
+The Personal MBA: Master the Art of Business	The Personal MBA: Master the Art of Business, Josh Kaufman (Paperback)
+Renewable Energy Finance: Powering The Future	Renewable Energy Finance: Powering The Future, Charles W Donovan (Paperback)
+Upstream: Selected Essays	Upstream: Selected Essays, Mary Oliver (Hardcover)
+Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell	Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell, Eric Schmidt, Jonathan Rosenberg (Kindle Edition)
+The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century	The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century, Steven Pinker (Paperback)
+On Writing Well: The Classic Guide to Writing Nonfiction	On Writing Well: The Classic Guide to Writing Nonfiction, William Zinsser (Paperback)
+Handbook of Mathematics	Handbook of Mathematics, I.N. Bronshtein, K.A. Semendyayev (Paperback)
+Influence: The Psychology of Persuasion, Revised Edition	Influence: The Psychology of Persuasion, Revised Edition, Robert B. Cialdini (Paperback)
+Why We Sleep: Unlocking the Power of Sleep and Dreams	Why We Sleep: Unlocking the Power of Sleep and Dreams, Matthew Walker PhD (Paperback)
+Soft Skills: The software developer's life manual	Soft Skills: The software developer's life manual, John Sonmez (Paperback)
+Programming Pearls (2nd Edition)	Programming Pearls (2nd Edition), Jon Bentley (Paperback)
+Clean Code: A Handbook of Agile Software Craftsmanship	Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin (Paperback)
+The Pragmatic Programmer: From Journeyman to Master	The Pragmatic Programmer: From Journeyman to Master, Andrew Hunt, David Thomas (Paperback)
+Code Complete: A Practical Handbook of Software Construction, Second Edition	Code Complete: A Practical Handbook of Software Construction, Second Edition, Steve McConnell (Paperback)
+Coders at Work: Reflections on the Craft of Programming	Coders at Work: Reflections on the Craft of Programming, Peter Seibel (Paperback)
+Compilers: Principles, Techniques, and Tools	Compilers: Principles, Techniques, and Tools, Alfred V. Aho, Ravi Sethi (Hardcover)
+Foundation	Foundation, Isaac Asimov (Mass Market Paperback)
+The Elements of Statistical Learning Data Mining, Inference, and Prediction, Second Edition by Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome [Springer,2009] (Hardcover) 2nd Edition	The Elements of Statistical Learning Data Mining, Inference, and Prediction, Second Edition by Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome [Springer,2009] (Hardcover) 2nd Edition, aa (Paperback)
+Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series)	Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series), Jon Krohn, Grant Beyleveld (Paperback)
+Love and Math: The Heart of Hidden Reality	Love and Math: The Heart of Hidden Reality, Edward Frenkel (Paperback)
+Insanely Simple: The Obsession That Drives Apple's Success	Insanely Simple: The Obsession That Drives Apple's Success, Ken Segall (Paperback)
+The Future of Capitalism: Facing the New Anxieties	The Future of Capitalism: Facing the New Anxieties, Paul Collier (Hardcover)
+Presidents of War	Presidents of War, Michael Beschloss (Hardcover)
+A Gentleman in Moscow: A Novel	A Gentleman in Moscow: A Novel, Amor Towles (Paperback)
+Becoming	Becoming, Michelle Obama (Hardcover)
+The Moment of Lift: How Empowering Women Changes the World	The Moment of Lift: How Empowering Women Changes the World, Melinda Gates (Hardcover)
+The Rosie Project: A Novel	The Rosie Project: A Novel, Graeme Simsion (Paperback)
+Nine Pints: A Journey Through the Money, Medicine, and Mysteries of Blood	Nine Pints: A Journey Through the Money, Medicine, and Mysteries of Blood, Rose George (Hardcover)
+Upheaval: Turning Points for Nations in Crisis	Upheaval: Turning Points for Nations in Crisis, Jared Diamond (Hardcover)
+The Shallows: What the Internet Is Doing to Our Brains	The Shallows: What the Internet Is Doing to Our Brains, Nicholas Carr (Paperback)
+The Practice of Management	The Practice of Management, Peter F. Drucker (Paperback)
+The New Digital Age: Transforming Nations, Businesses, and Our Lives	The New Digital Age: Transforming Nations, Businesses, and Our Lives, Eric Schmidt, Jared Cohen (Paperback)
+University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting	University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting, Daniel Pecaut, Corey Wrenn (Paperback)
+Benjamin Franklin's Book of Virtues	Benjamin Franklin's Book of Virtues, Benjamin Franklin (Hardcover)
+Benjamin Franklin: An American Life	Benjamin Franklin: An American Life, Walter Isaacson (Paperback)
+Einstein: His Life and Universe	Einstein: His Life and Universe, Walter Isaacson (Paperback)
+How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence	How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence, Michael Pollan (Hardcover)
+The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution	The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution, Alice Waters, Patricia Curtan (Hardcover)
+Possible Minds: Twenty-Five Ways of Looking at AI	Possible Minds: Twenty-Five Ways of Looking at AI, John Brockman (Hardcover)
+All the Way: My Life in Four Quarters	All the Way: My Life in Four Quarters, Joe Namath, Sean Mortimer (Hardcover)
+Neurotribes: The Legacy of Autism and the Future of Neurodiversity	Neurotribes: The Legacy of Autism and the Future of Neurodiversity, Steve Silberman, Oliver Sacks (Paperback)
+Blindspot: Hidden Biases of Good People	Blindspot: Hidden Biases of Good People, Mahzarin R. Banaji, Anthony G. Greenwald (Paperback)
+Organizing Solutions for People with ADHD, 2nd Edition-Revised and Updated: Tips and Tools to Help You Take Charge of Your Life and Get Organized	Organizing Solutions for People with ADHD, 2nd Edition-Revised and Updated: Tips and Tools to Help You Take Charge of Your Life and Get Organized, Susan Pinsky (Paperback)
+The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture	The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture, John Battelle (Kindle Edition)
+Effective Programming: More Than Writing Code	Effective Programming: More Than Writing Code, Jeff Atwood (Paperback)
+The Basic Works of Aristotle (Modern Library Classics)	The Basic Works of Aristotle (Modern Library Classics), Aristotle, Richard McKeon (Paperback)
+The Minority Report and Other Classic Stories By Philip K. Dick	The Minority Report and Other Classic Stories By Philip K. Dick, Philip K. Dick (Paperback)
+How to Live on Twenty-Four Hours a Day	How to Live on Twenty-Four Hours a Day, Arnold Bennett (Paperback)
+Handmade: Creative Focus in the Age of Distraction	Handmade: Creative Focus in the Age of Distraction, Gary Rogowski (Paperback)
+The Science of Fate: Why Your Future is More Predictable Than You Think	The Science of Fate: Why Your Future is More Predictable Than You Think, Hannah Critchlow (Hardcover)
+New Minimalism: Decluttering and Design for Sustainable, Intentional Living	New Minimalism: Decluttering and Design for Sustainable, Intentional Living, Cary Telander Fortin, Kyle Louise Quilici (Hardcover),rength in Stillness: The Power of Transcendental Meditation	Strength in Stillness: The Power of Transcendental Meditati
+Science of Being and Art of Living: Transcendental Meditation	Science of Being and Art of Living: Transcendental Meditation, Maharishi Mahesh Yogi (Paperback)
+10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story	10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story, Dan Harris (Kindle Edition)
+The Untethered Soul: The Journey Beyond Yourself	The Untethered Soul: The Journey Beyond Yourself, Michael A. Singer (Paperback)
+The Book on Managing Rental Properties: A Proven System for Finding, Screening, and Managing Tenants with Fewer Headaches and Maximum Profits	The Book on Managing Rental Properties: A Proven System for Finding, Screening, and Managing Tenants with Fewer Headaches and Maximum Profits, Brandon Turner, Heather Turner (Paperback)
+What It Takes to Be #1 : Vince Lombardi on Leadership	What It Takes to Be #1 : Vince Lombardi on Leadership, Vince Lombardi Jr. (Paperback)
+When Pride Still Mattered : A Life Of Vince Lombardi	When Pride Still Mattered : A Life Of Vince Lombardi, David Maraniss (Paperback)
+A Whole New Mind: Why Right-Brainers Will Rule the Future	A Whole New Mind: Why Right-Brainers Will Rule the Future, Daniel H. Pink (Paperback)
+River Out of Eden: A Darwinian View of Life (Science Masters Series)	River Out of Eden: A Darwinian View of Life (Science Masters Series), Richard Dawkins (Kindle Edition)
+Sex at Dawn: How We Mate, Why We Stray, and What it Means for Modern Relationships	Sex at Dawn: How We Mate, Why We Stray, and What it Means for Modern Relationships, Christopher Ryan, Cacilda Jetha (MP3 CD)
+The Meaning of Human Existence	The Meaning of Human Existence, Edward O. Wilson (Hardcover)
+Subliminal: How Your Unconscious Mind Rules Your Behavior	Subliminal: How Your Unconscious Mind Rules Your Behavior, Leonard Mlodinow (Paperback)
+The Spiritual Brain: A Neuroscientist's Case for the Existence of the Soul	The Spiritual Brain: A Neuroscientist's Case for the Existence of the Soul, Mario Beauregard, Denyse OLeary (Paperback)
+Beyond Religion: Ethics for a Whole World	Beyond Religion: Ethics for a Whole World, Dalai Lama XIV (Hardcover)
+Incognito: The Secret Lives of the Brain	Incognito: The Secret Lives of the Brain, David Eagleman (Kindle Edition)
+I'm Feeling Lucky: The Confessions of Google Employee Number 59	I'm Feeling Lucky: The Confessions of Google Employee Number 59, Douglas Edwards (Hardcover)
+What Would Google Do?: Reverse-Engineering the Fastest Growing Company in the History of the World	What Would Google Do?: Reverse-Engineering the Fastest Growing Company in the History of the World, Jeff Jarvis (Paperback)
+The End of Nature	The End of Nature, Bill McKibben (Paperback)
+Lean Software Development: An Agile Toolkit	Lean Software Development: An Agile Toolkit, Mary Poppendieck, Tom Poppendieck (Paperback)
+Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future	Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance (Hardcover)
+Laughing at Wall Street: How I Beat the Pros at Investing (by Reading Tabloids, Shopping at the Mall, and Connecting on Facebook) and How You Can, Too	Laughing at Wall Street: How I Beat the Pros at Investing (by Reading Tabloids, Shopping at the Mall, and Connecting on Facebook) and How You Can, Too, Chris Camillo (Hardcover)
+Sapiens: A Brief History of Humankind	Sapiens: A Brief History of Humankind, Yuval Noah Harari (Paperback)
+The Righteous Mind: Why Good People Are Divided by Politics and Religion	The Righteous Mind: Why Good People Are Divided by Politics and Religion, Jonathan Haidt (Hardcover)
+A Testament of Hope: The Essential Writings and Speeches	A Testament of Hope: The Essential Writings and Speeches, Martin Luther King, James M. Washington (Paperback)
+Strength to Love	Strength to Love, Martin Luther King Jr (Paperback)
+All the Pretty Horses (The Border Trilogy, Book 1)	All the Pretty Horses (The Border Trilogy, Book 1), Cormac McCarthy (Paperback)
+Design for Hackers: Reverse Engineering Beauty	Design for Hackers: Reverse Engineering Beauty, David Kadavy (Paperback)
+The Timeless Way of Building	The Timeless Way of Building, Christopher Alexander (Hardcover)
+G is for Genes: The Impact of Genetics on Education and Achievement	G is for Genes: The Impact of Genetics on Education and Achievement, Kathryn Asbury, Robert Plomin (Hardcover)
+Blueprint: How DNA Makes Us Who We Are (The MIT Press)	Blueprint: How DNA Makes Us Who We Are (The MIT Press), Robert Plomin (Hardcover)
+Pattern Classification (Pt.1)	Pattern Classification (Pt.1), Richard O. Duda, Peter E. Hart (Hardcover)
+Pattern Recognition and Machine Learning (Information Science and Statistics)	Pattern Recognition and Machine Learning (Information Science and Statistics), Christopher M. Bishop (Hardcover)
+The Revenge of Analog: Real Things and Why They Matter	The Revenge of Analog: Real Things and Why They Matter, David Sax (Paperback)
+Growing Object-Oriented Software, Guided by Tests	Growing Object-Oriented Software, Guided by Tests, Steve Freeman, Nat Pryce (Paperback)
+In Search of Excellence : Lessons from America's Best-Run Companies	In Search of Excellence : Lessons from America's Best-Run Companies, aa (Paperback)
+Irrational Exuberance 3rd edition	Irrational Exuberance 3rd edition, Robert J. Shiller (Hardcover)
+The Book of Times: From Seconds to Centuries, a Compendium of Measures	The Book of Times: From Seconds to Centuries, a Compendium of Measures, Lesley Alderman (Paperback)
+The Power of Time Perception: Control the Speed of Time to Make Every Second Count (Time Life Series)	The Power of Time Perception: Control the Speed of Time to Make Every Second Count (Time Life Series), Jean Paul Zogby (Paperback)
+Focus: The Hidden Driver of Excellence	Focus: The Hidden Driver of Excellence, Daniel Goleman (Paperback)
+Emotional Intelligence: Why It Can Matter More Than IQ	Emotional Intelligence: Why It Can Matter More Than IQ, Daniel Goleman (Paperback)
+Theory of Economic Development (Social Science Classics Series)	Theory of Economic Development (Social Science Classics Series), Joseph A Schumpeter (Paperback)
+Enough: True Measures of Money, Business, and Life	Enough: True Measures of Money, Business, and Life, John C. Bogle, President Bill Clinton (Paperback)
+The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns (Little Books. Big Profits)	The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns (Little Books. Big Profits), John C. Bogle (Hardcover)
+Bogle On Mutual Funds: New Perspectives For The Intelligent Investor (Wiley Investment Classics)	Bogle On Mutual Funds: New Perspectives For The Intelligent Investor (Wiley Investment Classics), John C. Bogle (Hardcover)
+Stay the Course: The Story of Vanguard and the Index Revolution	Stay the Course: The Story of Vanguard and the Index Revolution, John C. Bogle (Hardcover)
+The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data	The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data, Kevin Mitnick, Mikko Hypponen (Hardcover)
+Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine	Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine, Mike Michalowicz (Hardcover)
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones	Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones, James Clear (Hardcover)
+Never Split the Difference: Negotiating as if Your Life Depended on It	Never Split the Difference: Negotiating as if Your Life Depended on It, VOSS/RAZ (Paperback)
+University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting	University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting, Daniel Pecaut, Corey Wrenn (Kindle Edition)
+How to Be a Quick Turn Real Estate Millionaire: Make Fast Cash with No Money, Credit, or Previous Experience	How to Be a Quick Turn Real Estate Millionaire: Make Fast Cash with No Money, Credit, or Previous Experience, Ron LeGrand, Mark Victor Hansen (Paperback)
+The Less I Do, The More I Make: Automate or Die: How to Get More Done in Less Time and Take Your Life Back	The Less I Do, The More I Make: Automate or Die: How to Get More Done in Less Time and Take Your Life Back, Ron LeGrand (Paperback)
+Empty Planet: The Shock of Global Population Decline	Empty Planet: The Shock of Global Population Decline, Darrell Bricker, John Ibbitson (Hardcover)
+Infinite Possibilities: The Art of Living Your Dreams by Mike Dooley	Infinite Possibilities: The Art of Living Your Dreams by Mike Dooley, by Mike Dooley (Paperback)
+Unfu*k Yourself: Get Out of Your Head and into Your Life	Unfu*k Yourself: Get Out of Your Head and into Your Life, Gary John Bishop (Hardcover)
+Technical Analysis of Stock Trends	Technical Analysis of Stock Trends, Robert D. Edwards, John Magee (Paperback)
+The Money Game	The Money Game, Adam Smith (Paperback)
+The World According to Garp	The World According to Garp, John Irving (Mass Market Paperback)
+Blood Meridian: Or the Evening Redness in the West	Blood Meridian: Or the Evening Redness in the West, Cormac McCarthy (Paperback)
+Daily Rituals: How Great Minds Make Time, Find Inspiration, and Get to Work	Daily Rituals: How Great Minds Make Time, Find Inspiration, and Get to Work, Mason Currey (Paperback)
+The Power of Habit: Why We Do What We Do in Life and Business	The Power of Habit: Why We Do What We Do in Life and Business, Charles Duhigg (Paperback)
+The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy	The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy, Chris Bailey (Hardcover)
+Deep Work: Rules for Focused Success in a Distracted World	Deep Work: Rules for Focused Success in a Distracted World, Cal Newport (Hardcover)
+Early Retirement Extreme: A Philosophical and Practical Guide to Financial Independence	Early Retirement Extreme: A Philosophical and Practical Guide to Financial Independence, Jacob Lund Fisker (Paperback)
+The Thousand Autumns of Jacob de Zoet: A Novel	The Thousand Autumns of Jacob de Zoet: A Novel, David Mitchell (Paperback)
+So Much Blue: A Novel	So Much Blue: A Novel, Percival Everett (Paperback)
+[By Haruki Murakami ] Kafka on the Shore (Paperback)【2018】by Haruki Murakami (Author) (Paperback)	[By Haruki Murakami ] Kafka on the Shore (Paperback)【2018】by Haruki Murakami (Author) (Paperback)
+The Luminaries (Man Booker Prize)	The Luminaries (Man Booker Prize), Eleanor Catton (Kindle Edition)
+Infinite Jest	Infinite Jest, David Foster Wallace (Paperback)
+On Writing: 10th Anniversary Edition: A Memoir of the Craft	On Writing: 10th Anniversary Edition: A Memoir of the Craft, Stephen King (Paperback)
+Zen in the Art of Writing: Essays on Creativity	Zen in the Art of Writing: Essays on Creativity, Ray Bradbury (Paperback)
+Do I Make Myself Clear?: Why Writing Well Matters	Do I Make Myself Clear?: Why Writing Well Matters, Harold Evans (Hardcover)
+Thinking, Fast and Slow	Thinking, Fast and Slow, Daniel Kahneman (Paperback)
+Basic Economics	Basic Economics, Thomas Sowell (Hardcover)
+Antifragile: Things That Gain from Disorder (Incerto)	Antifragile: Things That Gain from Disorder (Incerto), Nassim Nicholas Taleb (Paperback)
+Small Is Beautiful: Economics as if People Mattered (Harper Perennial Modern Thought)	Small Is Beautiful: Economics as if People Mattered (Harper Perennial Modern Thought), E. F. Schumacher (Paperback)
+Principles: Life and Work	Principles: Life and Work, Ray Dalio (Hardcover)
+Stay the Course: The Story of Vanguard and the Index Revolution, John C. Bogle
+Bartlett's Familiar Quotations, Geoffrey O'Brien, John Bartlett
+Sleepyhead: Narcolepsy, Neuroscience and the Search for a Good Night, Henry Nicholls
+Long-Distance Real Estate Investing: How to Buy, Rehab, and Manage Out-of-State Rental Properties, David Greene
+Democracy: A Case Study, David A. Moss
+ow to Cook Everything: 2,000 Simple Recipes for Great Food,10th Anniversary Edition, Mark Bittman
+The ABCs of Real Estate Investing: The Secrets of Finding Hidden Profits Most Investors Miss (Rich Dad's Advisors, Ken McElroy
+Project Management for the Unofficial Project Manager: A FranklinCovey Title, Kory Kogon, Suzette Blakemore
+Common Stocks as Long Term Investments, Edgar Lawrence Smith
+Where Are the Customers' Yachts?: or A Good Hard Look at Wall Street, Fred Schwed, Peter Arno
+Never Split the Difference: Negotiating As If Your Life Depended On It, Chris Voss, Tahl Raz
+Drive: The Surprising Truth About What Motivates Us, Daniel H. Pink
+Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto), Nassim Nicholas Taleb
+Hold: How to Find, Buy, and Rent Houses for Wealth, Steve Chader, Jennice Doty
+Trump: The Way to the Top: The Best Business Advice I Ever Received, Donald J. Trump
+Destination Architecture: The Essential Guide to 1000 Contemporary Buildings, Phaidon Editors
+Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
+In Search of Identity, Anwar Sadat
+Called to Create: A Biblical Invitation to Create, Innovate, and Risk, Jordan Raynor
+The Righteous Mind: Why Good People Are Divided by Politics and Religion, Jonathan Haidt
+Meditations (Dover Thrift Editions), Marcus Aurelius
+Lean Software Development: An Agile Toolkit, Mary Poppendieck, Tom Poppendieck
+Scrum: The Art of Doing Twice the Work in Half the Time, Jeff Sutherland, J.J. Sutherland
+Software Project Survival Guide (Developer Best Practices), Steve McConnell
+Rapid Development: Taming Wild Software Schedules, Steve McConnell
+The 17 Indisputable Laws of Teamwork: Embrace Them and Empower Your Team, John C. Maxwell
+Economics of Money, Banking, and Financial Markets, The (8th Edition), Frederic S. Mishkin
+The Wealth of Nations (Bantam Classics), Adam Smith, Alan B. Krueger
+In Love and War: The Story of a Family's Ordeal and Sacrifice During the Vietnam Years, Jim Stockdale, Sybil Stockdale
+Learning as a Way of Being: Strategies for Survival in a World of Permanent White Water, Peter B. Vaill
+The Undoing Project: A Friendship That Changed Our Minds, Michael Lewis
+The Quantum Leap Strategy, Price Pritchett
+The Millionaire Next Door, Thomas J. Stanley, William D. Danko
+Beautiful: All-American Decorating and Timeless Style, Mark D. Sikes, Amy Neunsinger
+The Interior Design Reference & Specification Book: Everything Interior Designers Need to Know Every Day, Linda O'Shea, Chris Grimley
+Microservice Architecture: Aligning Principles, Practices, and Culture, Irakli Nadareishvili, Ronnie Mitra
+Building Microservices: Designing Fine-Grained Systems, Sam Newman
+Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking, Kevin Townsend, Carles Cufí
+The 5 Second Rule: Transform your Life, Work, and Confidence with Everyday Courage, Mel Robbins
+The Worry Trick: How Your Brain Tricks You into Expecting the Worst and What You Can Do About It, David A. Carbonell PhD, Sally M. Winston PsyD
+10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story, Dan Harris
+The How of Happiness: A New Approach to Getting the Life You Want, Sonja Lyubomirsky
+Positioning: The Battle for Your Mind, Al Ries, Jack Trout
+Give and Take: Why Helping Others Drives Our Success, Adam Grant
+An Introduction to Database Systems (8th Edition), C.J. Date
+Data Modeling Essentials, Third Edition, Graeme Simsion, Graham Witt
+Security Analysis: Sixth Edition, Foreword by Warren Buffett (Security Analysis Prior Editions), Benjamin Graham, David Dodd
+The New Buffettology: The Proven Techniques for Investing Successfully in Changing Markets That Have Made Warren Buffett the World's Most Famous Investor, Mary Buffett, David Clark
+Landlording on Autopilot: A Simple, No-Brainer System for Higher Profits and Fewer Headaches, Mike Butler
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, Eric Ries
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science), Harold Abelson, Gerald Jay Sussman
+80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More, Perry Marshall, Richard Koch
+The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!, MJ DeMarco
+97 Things Every Programmer Should Know: Collective Wisdom from the Experts, Kevlin Henney
+Iron John: A Book about Men, Robert Bly
+Engineering Software as a Service: An Agile Approach Using Cloud Computing, Armando Fox, David Patterson
+Growing Object-Oriented Software, Guided by Tests, Steve Freeman, Nat Pryce
+The Omnivore's Dilemma: A Natural History of Four Meals, Michael Pollan
+How We Learn: The Surprising Truth About When, Where, and Why It Happens, Benedict Carey
+The Owner's Manual for the Brain (4th Edition): The Ultimate Guide to Peak Mental Performance at All Ages, Pierce Howard
+Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, Alexander Osterwalder, Yves Pigneur
+Information Architecture for the World Wide Web: Designing Large-Scale Web Sites, 3rd Edition, Peter Morville, Louis Rosenfeld
+Validating Product Ideas: Through Lean User Research, Tomer Sharon, Noam Lamdan
+Understanding Your Users: A Practical Guide to User Requirements Methods, Tools, and Techniques (Interactive Technologies), Kathy Baxter, Catherine Courage
+Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems, Steve Krug
+Design Research Through Practice: From the Lab, Field, and Showroom, Ilpo Koskinen, John Zimmerman
+Observing the User Experience: A Practitioner's Guide to User Research, Mike Kuniavsky
+Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin
+Building Wealth One House at a Time, Updated and Expanded, Second Edition, John Schaub
+Start Small, Profit Big in Real Estate: Fixer Jay's 2-Year Plan for Building Wealth - Starting from Scratch, Jay P. DeCima
+The Go-Giver, Expanded Edition: A Little Story About a Powerful Business Idea, Bob Burg, John David Mann
+Servant Leader, Ken Blanchard
+FLIP: How to Find, Fix, and Sell Houses for Profit, Rick Villani, Clay Davis
+Make It Happen Blueprint: 18 High-Performance Practices to Crush it in Life and Business without Burning Out, Michelle McCullough, Richie Norton
+Psychology of Computer Programming, Gerald M. Weinberg
+Beginning Database Design: From Novice to Professional, Clare Churcher
+Getting Everything You Can Out of All You've Got: 21 Ways You Can Out-Think, Out-Perform, and Out-Earn the Competition, Jay Abraham
+How I Turned $1,000 into Three Million in Real Estate in My Spare Time, William Nickerson
+A Software Engineer Learns HTML5, JavaScript and jQuery, Dane Cameron
+HTML and CSS: Design and Build Websites, Jon Duckett
+Thou Shall Prosper: Ten Commandments for Making Money, Rabbi Daniel Lapin
+The Richest Man in Babylon, George S. Clason, Suze Orman
+As a Man Thinketh, James Allen
+Down To Earth Landlording by Beck, Donald (2004) Paperback
+The Advanced Guide to Real Estate Investing: How to Identify the Hottest Markets and Secure the Best Deals (Rich Dad's Advisors), Ken McElroy
+Business Brilliant: Surprising Lessons from the Greatest Self-Made Business Icons, Lewis Schiff
+Investing in Real Estate, Gary W. Eldred
+Disrupt You!: Master Personal Transformation, Seize Opportunity, and Thrive in the Era of Endless Innovation, Jay Samit
+Amusing Ourselves to Death: Public Discourse in the Age of Show Business, Neil Postman, Andrew Postman
+Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace), Chade-Meng Tan, Daniel Goleman
+Becoming Wise: An Inquiry into the Mystery and Art of Living, Krista Tippett
+Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, Brené Brown
+Designing Your Life: How to Build a Well-Lived, Joyful Life, Bill Burnett, Dave Evans
+Influence: The Psychology of Persuasion, Revised Edition, Robert B. Cialdini
+Business for Beginners: From Research and Business Plans to Money, Marketing and the Law (Quick Start Your Business), Francis McGuckin
+Stock Market Investing for Beginners: Essentials to Start Investing Successfully, Tycho Press
+he Warren Buffett Way: Investment Strategies of the World's Greatest Investor, Robert G. Hagstrom
+What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive, Mark H. McCormack
+Object-Oriented Systems Analysis and Design Using UML, Simon Bennett, Ray Farmer
+The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future, Chris Guillebeau
+One Up On Wall Street: How To Use What You Already Know To Make Money In The Market, Peter Lynch, John Rothchild
+Advanced Selling Strategies: The Proven System of Sales Ideas, Methods, and Techniques Used by Top Salespeople Everywhere, Brian Tracy
+How to Buy and Manage Rental Properties: The Milin Method of Real Estate Management for the Small Investor, Irene Milin, Mike Milin
+Tai-Pan (Asian Saga), James Clavell
+Economics Explained: Everything You Need to Know About How the Economy Works and Where It's Going, Robert L. Heilbroner, Lester Thurow
+The Little Book That Still Beats the Market, Joel Greenblatt, Andrew Tobias
+Real Estate Accounting Made Easy, Obioma A. Ebisike
+Psycho-Cybernetics, A New Way to Get More Living Out of Life, Maxwell Maltz
+Joy on Demand: The Art of Discovering the Happiness Within, Chade-Meng Tan
+The 16% Solution: How to Get High Interest Rates in a Low-Interest World with Tax Lien Certificates, Revised Edition, J.D. Joel S. Moskowitz
+Choose Yourself!, James Altucher, Dick Costolo
+Investing in Fixer-Uppers : A Complete Guide to Buying Low, Fixing Smart, Adding Value, and Selling (or Renting) High, Jay P. DeCima
+Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth, T. Harv Eker
+Man's Search for Himself, Rollo May
+On Food and Cooking, Harold McGee
+The Book on Rental Property Investing: How to Create Wealth and Passive Income Through Smart Buy & Hold Real Estate Investing, Brandon Turner (Kindle Edition)
+Rich Dad's CASHFLOW Quadrant: Rich Dad's Guide to Financial Freedom, Robert T. Kiyosaki
+Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time, Brian Tracy
+The Promise: An Elvis Cole and Joe Pike Novel, Robert Crais
+Schulz and Peanuts: A Biography, David Michaelis
+Walt Disney: The Triumph of the American Imagination, Neal Gabler
+Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel, Blake Masters
+High Output Management, Andrew S. Grove
+Traction: Get a Grip on Your Business, Gino Wickman
+The Four Spiritual Laws of Prosperity: A Simple Guide to Unlimited Abundance, Edwene Gaines
+The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results, Gary Keller, Jay Papasan
+Python Machine Learning, 1st Edition, Sebastian Raschka
+MONEY Master the Game: 7 Simple Steps to Financial Freedom, Tony Robbins
+Complete Calisthenics: The Ultimate Guide to Bodyweight Exercise, Ashley Kalym
+Why We Buy: The Science of Shopping--Updated and Revised for the Internet, the Global Consumer, and Beyond, Paco Underhill
+Logistics Clusters: Delivering Value and Driving Growth (The MIT Press), Yossi Sheffi
+The Wall Street Journal. Complete Real-Estate Investing Guidebook (Wall Street Journal Guides), David Crook
+Peak: Secrets from the New Science of Expertise, Anders Ericsson, Robert Pool
+The Complete Guide to Real Estate Finance for Investment Properties: How to Analyze Any Single-Family, Multifamily, or Commercial Property, Steve Berges
+Serious Creativity: Using the Power of Lateral Thinking to Create New Ideas, Edward De Bono
+How to Win at the Sport of Business: If I Can Do It, You Can Do It, Mark Cuban
+Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century (Think and Grow Rich Series), Napoleon Hill, Arthur R. Pell
+Emerging Real Estate Markets: How to Find and Profit from Up-and-Coming Areas, David Lindahl
+Fixing and Flipping Real Estate: Strategies for the Post-Boom Era, Marty Boardman
+Start with NO...The Negotiating Tools that the Pros Don't Want You to Know, Jim Camp
+Multi-Family Millions: How Anyone Can Reposition Apartments for Big Profits, David Lindahl
+Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics (Interactive Technologies), William Albert, Thomas Tullis
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter), Steve Krug
+Usable Usability: Simple Steps for Making Stuff Better, Eric Reiss
+100 Things Every Designer Needs to Know About People (Voices That Matter), Susan Weinschenk
+Smashing UX Design: Foundations for Designing Online User Experiences, Jesmond J. Allen, James J. Chudley
+The Art of Learning: An Inner Journey to Optimal Performance, Josh Waitzkin
+Rich Dad Poor Dad: What The Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!, Robert T. Kiyosaki
+Speak Like Churchill, Stand Like Lincoln: 21 Powerful Secrets of History's Greatest Speakers, James C. Humes
+Between the World and Me, Ta-Nehisi Coates
+The Fortune at the Bottom of the Pyramid, Revised and Updated 5th Anniversary Edition: Eradicating Poverty Through Profits, C.K. Prahalad
+The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business, Clayton M. Christensen
+Good to Great: Why Some Companies Make the Leap and Others Don't, Jim Collins
+The New One Minute Manager, Ken Blanchard, Spencer Johnson M.D.
+Damodaran on Valuation: Security Analysis for Investment and Corporate Finance, Aswath Damodaran
+The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition), Benjamin Graham, Jason Zweig
+More Human: Designing a World Where People Come First, Steve Hilton
+Patterns of Enterprise Application Architecture, Martin Fowler
+It's Not How Good You Are, It's How Good You Want to Be: The world's best selling book, Paul Arden
+The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win, Gene Kim, Kevin Behr
+Infinite Home: A Novel, Kathleen Alcott
+The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness, Sy Montgomery
+Martian, The, Andy Weir, Ax Norman (MP3 CD)
+American Psycho, Bret Easton Ellis
+Stretching Scientifically: A Guide to Flexibility Training, Thomas Kurz
+Bruce Lee The Art of Expressing the Human Body (Bruce Lee Library), Bruce Lee, John Little
+My Bread: The Revolutionary No-Work, No-Knead Method, Jim Lahey, Rick Flaste
+How Buildings Learn: What Happens After They're Built, Stewart Brand
+Moneyball: The Art of Winning an Unfair Game, Michael Lewis
+Flash Boys, Michael Lewis
+Body by Science: A Research Based Program for Strength Training, Body building, and Complete Fitness in 12 Minutes a Week, John R. Little, Doug McGuff
+The America's Test Kitchen Cooking School Cookbook: Everything You Need to Know to Become a Great Cook, America's Test Kitchen
+Cook's Illustrated Meat Book: The Game-Changing Guide That Teaches You How to Cook Meat and Poultry with 425 Bulletproof Recipes, Cook's Illustrated
+The New Making of a Cook: The Art, Techniques, And Science Of Good Cooking, Madeleine Kamman
+Bobby Flay's Burgers, Fries, and Shakes, Bobby Flay, Stephanie Banyas
+Creating Affluence: The A-to-Z Steps to a Richer Life, Deepak Chopra, Richard Carlson
+Ratio: The Simple Codes Behind the Craft of Everyday Cooking, Michael Ruhlman
+Sane New World: Taming the Mind, Ruby Wax
+Steak: One Man's Search for the World's Tastiest Piece of Beef, Mark Schatzker
+Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time, Keith Ferrazzi, Tahl Raz
+Mind Over Water: Lessons on Life from the Art of Rowing, Craig Lambert
+The Perfect Protein: The Fish Lover's Guide to Saving the Oceans and Feeding the World, Andy Sharpless, Suzannah Evans
+The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health, Thomas Campbell, T. Colin Campbell
+Modernist Cuisine at Home, Nathan Myhrvold, Maxime Bilet
+On Food and Cooking: The Science and Lore of the Kitchen, Harold McGee
+Business Adventures: Twelve Classic Tales from the World of Wall Street, John Brooks (Kindle Edition)
+A Walk in the Woods: Rediscovering America on the Appalachian Trail, Bill Bryson
+Just Listen: Discover the Secret to Getting Through to Absolutely Anyone, Mark Goulston
+Code: The Hidden Language of Computer Hardware and Software, Charles Petzold
+Emotional Intelligence 2.0, Travis Bradberry, Jean Greaves
+StrengthsFinder 2.0, Tom Rath
+Start with Why: How Great Leaders Inspire Everyone to Take Action, Simon Sinek
+Capital in the Twenty First Century, Thomas Piketty, Arthur Goldhammer
+Scar Tissue, Anthony Kiedis, Larry Sloman
+JavaScript: The Good Parts, Douglas Crockford
+Talent is Overrated: What Really Separates World-Class Performers from Everybody Else, Geoff Colvin
+Software Engineering: (Update) (8th Edition), Ian Sommerville
+Code Complete: A Practical Handbook of Software Construction, Second Edition, Steve McConnell
+Snow Crash, Neal Stephenson
+Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers, David Perlmutter, Kristin Loberg
