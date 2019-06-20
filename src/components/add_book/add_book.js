@@ -26,7 +26,7 @@ export class AddBook extends React.Component {
   }
 
   handleSubmit(event) {
-    this.props.onAddBook(this.state)
+    this.props.addBook(this.state)
     this.setState(state => ({
       ...state,
       title: '',
@@ -36,6 +36,7 @@ export class AddBook extends React.Component {
   }
 
   render() {
+    console.log('AddBook render', this.props)
     return (
       <form onSubmit={this.handleSubmit}>
         <div>

@@ -1,7 +1,7 @@
 import React from 'react'
 import { readBooks, logout } from  '../../database_connection'
 import { Link } from "react-router-dom"
-import { BookList } from '../book_list'
+import BookList from '../../containers/book_list'
 
 export class Dashboard extends React.Component {
   constructor(props) {
@@ -40,7 +40,7 @@ export class Dashboard extends React.Component {
         >
           Logout
         </Link>
-        <BookList books={this.state.books} />
+        <BookList/>
       </div>
     )
   }
