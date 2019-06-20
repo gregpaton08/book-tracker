@@ -1,5 +1,5 @@
 import React from 'react'
-import { login } from  '../../database_connection'
+import { login } from  '../database_connection'
 
 export class Login extends React.Component {
   render() {

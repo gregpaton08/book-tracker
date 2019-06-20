@@ -4,15 +4,15 @@ import { FaTrashAlt } from 'react-icons/fa'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'shards-ui/dist/css/shards.min.css'
-import '../../style/book_list.css'
+import '../style/book_list.css'
 
 export class BookList extends React.Component {
   render() {
     console.log('BookList render')
     console.log('BookList render', this.props)
-    // if (!this.props.books) {
+    if (!this.props.books) {
       return <div></div>
-    // }
+    }
     
     return (
       <table>

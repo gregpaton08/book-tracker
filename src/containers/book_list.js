@@ -1,5 +1,5 @@
 import { connect } from 'react-redux'
-import { BookList } from '../components/book_list/book_list'
+import { BookList } from '../components/book_list'
 
 const mapStateToProps = (state, props) => {
   return {
