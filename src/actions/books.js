@@ -11,9 +11,16 @@ export const addBooks = (books) => ({
   payload: books
 })
 
+export const requestBooks = () => ({
+  type: types.REQUEST_BOOKS
+})
+
 export const fetchBooks = () =>
-  (dispatch) => {
-    // inform app the API call is starting
+  (dispatch, getState) => {
+    if (getState().books.isFetching) {
+      return Promise.resolve()
+    }
+    dispatch(requestBooks())
     readBooks()
     .then((books) => {
       const booksObject = {}

@@ -6,6 +6,7 @@ function createTypes() {
 
   addType('ADD_BOOK')
   addType('ADD_BOOKS')
+  addType('REQUEST_BOOKS')
 
   return types;
 }

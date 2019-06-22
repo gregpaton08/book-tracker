@@ -1,7 +1,7 @@
 import types from '../actions/types'
 
 const INITIAL_STATE = {
-
+  isFetching: false
 }
 
 export default function(state = INITIAL_STATE, action) {
@@ -21,7 +21,13 @@ export default function(state = INITIAL_STATE, action) {
         books: {
           ...(state.books ? state.books : {}),
           ...action.payload
-        }
+        },
+        isFetching: true
+      }
+    case types.REQUEST_BOOKS:
+      return {
+        ...state,
+        isFetching: true
       }
     default:
       return state
