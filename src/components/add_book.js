@@ -1,8 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from "react-router-dom"
-
-import { readBooks, addBook, login } from  '../database_connection'
+import { addBook } from  '../database_connection'
 
 export class AddBook extends React.Component {
   constructor(props) {

@@ -1,5 +1,6 @@
 import { connect } from 'react-redux'
 import { BookList } from '../components/book_list'
+import { fetchBooks } from '../actions/books'
 
 const mapStateToProps = (state, props) => {
   return {
@@ -8,7 +9,7 @@ const mapStateToProps = (state, props) => {
 }
 
 const mapDispatchToProps = {
-
+  fetchBooks
 }
 
 const BookListContainer = connect(

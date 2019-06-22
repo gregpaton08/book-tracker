@@ -8,9 +8,7 @@ firebase.initializeApp({
 })
 
 
-var provider = new firebase.auth.GoogleAuthProvider();
-
-console.warn(firebase.auth().currentUser)
+var provider = new firebase.auth.GoogleAuthProvider()
 
 export const getUser = () => console.error('user = ', firebase.auth().currentUser)
 
@@ -33,8 +31,7 @@ export const readBooks = () => {
   return db.collection("books").get().then((querySnapshot) => {
     const books = []
     querySnapshot.forEach((doc) => {
-      books.push(doc.data())
-      console.log(`${doc.id} => ${JSON.stringify(doc.data())}`)
+      books.push({ id: doc.id, ...doc.data() })
     })
     return books
   })
