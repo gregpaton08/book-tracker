@@ -7,6 +7,13 @@ I Will Teach You To Be Rich, Ramit Sethi
 The Linux Programming Interface: A Linux and UNIX System Programming Handbook, Michael Kerrisk
 
 
+
+Programming Rust: Fast, Safe Systems Development, Jim Blandy (Author), Jason Orendorff (Author) 
+As I Lay Dying, William Faulkner 
+Go Down, Moses, William Faulkner 
+Breakfast of Champions, Kurt Vonnegut
+Welcome to the Monkey House: A Collection of Short Works, Kurt Vonnegut 
+Mother Night, Kurt Vonnegut 
 A Farewell to Arms, Ernest Hemingway
 Pride and Prejudice, Jane Austen
 Freakonomics: A Rogue Economist Explores the Hidden Side of Everything, Steven D. Levitt
