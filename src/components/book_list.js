@@ -25,7 +25,14 @@ export class BookList extends React.Component {
           {Object.values(this.props.books).map((book, index) => (
             <tr key={`${index}${book.title}`}>
               <td>{book.title}</td>
-              <td><button style={{ backgroundColor: 'Transparent', border: 'none' }}><FaTrashAlt /></button></td>
+              <td>
+                <button
+                  style={{ backgroundColor: 'Transparent', border: 'none' }}
+                  onClick={() => this.props.deleteBook(book.id)}
+                >
+                  <FaTrashAlt />
+                </button>
+              </td>
             </tr>
           ))}
         </tbody>
@@ -40,5 +47,6 @@ BookList.propTypes = {
     id: PropTypes.shape({
 
     })
-  })
+  }),
+  deleteBook: PropTypes.func.isRequired
 }

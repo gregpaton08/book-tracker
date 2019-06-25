@@ -28,3 +28,8 @@ export const fetchBooks = () =>
       dispatch(addBooks(booksObject))
     })
   }
+
+export const removeBook = (bookId) => ({
+  type: types.REMOVE_BOOK,
+  payload: bookId
+})

@@ -29,6 +29,12 @@ export default function(state = INITIAL_STATE, action) {
         ...state,
         isFetching: true
       }
+    case types.REMOVE_BOOK:
+      const { [action.payload]: value, ...books } = state.books
+      return {
+        ...state,
+        books
+      }
     default:
       return state
   }
