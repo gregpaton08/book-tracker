@@ -8,6 +8,8 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 
 
 
+
+The Essential Philosophical Works (Wordsworth Classics of World Literature), David Hume
 Programming Rust: Fast, Safe Systems Development, Jim Blandy (Author), Jason Orendorff (Author) 
 As I Lay Dying, William Faulkner 
 Go Down, Moses, William Faulkner 
