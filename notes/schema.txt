@@ -2,12 +2,13 @@ Tentative schema
 
 
 book {
-  title: [string],
-  author: [string],
-  priority: [number],       # e.g. 0 thru 3
-  rank: [number]            # absolute order in list
-  tags: [array([string])],
-  reviewScore: [number]     # e.g. Amazon, GoodReads, Google, personal,
+  title: string,
+  author: string,
+  priority: number,         # e.g. 0 thru 3
+  rank: number              # absolute order in list
+  tags: array(string),
+  reviewScore: number       # e.g. Amazon, GoodReads, Google, personal,
   dateStarted,              # null means not started
   dateCompleted,            # null means not completed
+  isOwned,                  # flag to signal if I own (or have PDF) of the book
 }
