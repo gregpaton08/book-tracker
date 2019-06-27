@@ -1,6 +1,5 @@
 Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans
 Tim Cook: The Genius Who Took Apple to the Next Level, Leander Kahney
-Discipline Equals Freedom: Field Manual, Jocko Willink
 The Psychology of Computer Programming, Gerald Weinberg
 The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't, Robert Sutton
 I Will Teach You To Be Rich, Ramit Sethi
@@ -8,9 +7,29 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 
 
 
-
+Creation: Life and How to Make It, Steve Grand
+Introduction to Algorithms: A Creative Approach, Udi Manber
+The Brothers Karamazov, Fyodor Dostoevsky
+The Collected Tales of Nikolai Gogol, Nikolai Vasilevich
+Anna Karenina, Leo Tolstoy
+Priceless: How I Went Undercover to Rescue the World's Stolen Treasures, Robert K. Wittman, John Shiffman
+Wampeters, Foma & Granfalloons, Kurt Vonnegut
+Introduction to Data Mining, Michael Steinbach, Pang-Ning Tan, and Vipin Kumar
+Super Thinking: The Big Book of Mental Models, Gabriel Weinberg, Lauren McCann
+How to Read a Book: The Classic Guide to Intelligent Reading, Mortimer J. Adler, Charles Van Doren
+Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth, T. Harv Eker 
+How I Turned $1,000 into Five Million in Real Estate in My Spare Time, William Nickerson
+Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel 
+Small Is Beautiful: Economics as if People Mattered, E. F. Schumacher 
+The New York Times: 36 Hours Europe, Barbara Ireland 
+Less: A Visual Guide to Minimalism, Rachel Aust 
+Remember It!: The Names of People You Meet, All of Your Passwords, Where You Left Your Keys, and Everything Else You Tend to Forget, Nelson Dellis
+The Monk and the Riddle: The Art of Creating a Life While Making a Living, Randy Komisar 
+JavaScript: The Definitive Guide: Activate Your Web Pages, David Flanagan
+Memory, Alan Baddeley, Michael W. Eysenck , Michael C. Anderson 
+The Art of the Metaobject Protocol, Gregor Kiczales, Jim des Rivieres, Daniel G. Bobrow
 The Essential Philosophical Works (Wordsworth Classics of World Literature), David Hume
-Programming Rust: Fast, Safe Systems Development, Jim Blandy (Author), Jason Orendorff (Author) 
+Programming Rust: Fast, Safe Systems Development, Jim Blandy, Jason Orendorff 
 As I Lay Dying, William Faulkner 
 Go Down, Moses, William Faulkner 
 Breakfast of Champions, Kurt Vonnegut
