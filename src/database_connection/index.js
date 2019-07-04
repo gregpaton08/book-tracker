@@ -49,3 +49,11 @@ export const addBook = (title, author) => {
     console.error("Error adding document: ", error)
   })
 }
+
+export const deleteBook = (bookId) => {
+  return db.collection("books").doc(bookId).delete().then(() => {
+    console.log("Document successfully deleted!")
+  }).catch((error) => {
+    console.error("Error removing document: ", error)
+  })
+}

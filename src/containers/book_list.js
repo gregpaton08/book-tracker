@@ -1,6 +1,6 @@
 import { connect } from 'react-redux'
 import { BookList } from '../components/book_list'
-import { fetchBooks, removeBook } from '../actions/books'
+import { fetchBooks, deleteBook } from '../actions/books'
 
 const mapStateToProps = (state, props) => {
   return {
@@ -10,7 +10,7 @@ const mapStateToProps = (state, props) => {
 
 const mapDispatchToProps = {
   fetchBooks,
-  deleteBook: removeBook
+  deleteBook
 }
 
 const BookListContainer = connect(

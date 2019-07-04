@@ -1,5 +1,5 @@
 import types from './types'
-import { readBooks } from '../database_connection'
+import { readBooks, deleteBook as deleteBookFromDataBase } from '../database_connection'
 
 export const addBook = (book) => ({
   type: types.ADD_BOOK,
@@ -33,3 +33,11 @@ export const removeBook = (bookId) => ({
   type: types.REMOVE_BOOK,
   payload: bookId
 })
+
+export const deleteBook = (bookId) =>
+  (dispatch, getState) => {
+    deleteBookFromDataBase(bookId)
+    .then(() => {
+      dispatch(removeBook(bookId))
+    })
+  }
