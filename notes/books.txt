@@ -7,6 +7,17 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 
 
 
+
+
+Programming Languages: Principles and Paradigms, Maurizio Gabbrielli, Simone Martini
+The Human Comedy: Selected Stories, Honore de Balzac
+What I Learned Losing a Million Dollars, Jim Paul (Author), Brendan Moynihan (Author)
+All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age, Hubert Dreyfus, Sean Dorrance Kelly 
+Metamorphoses: A New Translation, Ovid
+Python Cookbook, 3rd Edition, David Beazley, Brian K. Jones
+Penetration Testing: A Hands-On Introduction to Hacking, Georgia Weidman
+Hacking: The Art of Exploitation, Jon Erickson
+Fluent Python: Clear, Concise, and Effective Programming, Luciano Ramalho
 Creation: Life and How to Make It, Steve Grand
 Introduction to Algorithms: A Creative Approach, Udi Manber
 The Brothers Karamazov, Fyodor Dostoevsky
