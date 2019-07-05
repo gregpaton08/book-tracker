@@ -38,7 +38,7 @@ export const readBooks = () => {
 }
 
 export const addBook = (title, author) => {
-  db.collection("books").add({
+  return db.collection("books").add({
     title,
     author
   })

@@ -1,6 +1,7 @@
 import { connect } from 'react-redux'
-import { addBook } from '../actions/books'
+import { addNewBook } from '../actions/books'
 import { AddBook } from '../components/add_book'
+import { withRouter } from 'react-router'
 
 const mapStateToProps = (state, props) => {
   return {
@@ -9,10 +10,12 @@ const mapStateToProps = (state, props) => {
 }
 
 const mapDispatchToProps = {
-  addBook
+  onAddBook: addNewBook
 }
 
-export default connect(
+const AddBookContainer = connect(
   mapStateToProps,
   mapDispatchToProps
 )(AddBook)
+
+export default withRouter(AddBookContainer)

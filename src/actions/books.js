@@ -1,10 +1,15 @@
 import types from './types'
-import { readBooks, deleteBook as deleteBookFromDataBase } from '../database_connection'
+import { readBooks, addBook as addBookToDataBase, deleteBook as deleteBookFromDataBase } from '../database_connection'
 
 export const addBook = (book) => ({
   type: types.ADD_BOOK,
   payload: book
 })
+
+export const addNewBook = (book) =>
+  (dispatch, getState) =>
+    addBookToDataBase(book.title, book.author)
+    .then(() => dispatch(addBook(book)))
 
 export const addBooks = (books) => ({
   type: types.ADD_BOOKS,

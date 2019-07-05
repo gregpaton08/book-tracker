@@ -9,6 +9,7 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 
 
 
+The Black Swan: Second Edition: The Impact of the Highly Improbable, Nassim Nicholas Taleb
 Programming Languages: Principles and Paradigms, Maurizio Gabbrielli, Simone Martini
 The Human Comedy: Selected Stories, Honore de Balzac
 What I Learned Losing a Million Dollars, Jim Paul (Author), Brendan Moynihan (Author)

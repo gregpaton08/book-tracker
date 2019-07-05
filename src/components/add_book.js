@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link } from "react-router-dom"
-import { addBook } from  '../database_connection'
+import { Link } from 'react-router-dom'
 
 export class AddBook extends React.Component {
   constructor(props) {
@@ -25,13 +24,23 @@ export class AddBook extends React.Component {
   }
 
   handleSubmit(event) {
-    this.props.addBook(this.state)
-    this.setState(state => ({
-      ...state,
-      title: '',
-      author: ''
-    }))
     event.preventDefault()
+    const book = {
+      title: this.state.title,
+      author: this.state.author
+    }
+    this.props.onAddBook(book)
+    .then(() => {
+      this.setState(state => ({
+        ...state,
+        title: '',
+        author: ''
+      }))
+      this.props.history.push('/')
+    })
+    .catch(() => {
+      // TODO: handle and report error
+    })
   }
 
   render() {
@@ -62,9 +71,7 @@ export class AddBook extends React.Component {
 }
 
 AddBook.defaultProps = {
-  onAddBook: (book) => {
-    addBook(book.title, book.author)
-  }
+
 }
 
 AddBook.propTypes = {
