@@ -2,6 +2,7 @@ import React from 'react'
 import { logout } from  '../database_connection'
 import { Link } from "react-router-dom"
 import BookList from '../containers/book_list'
+import InProgress from '../containers/in_progress'
 
 export class Dashboard extends React.Component {
   render() {
@@ -14,6 +15,7 @@ export class Dashboard extends React.Component {
         >
           Logout
         </Link>
+        <InProgress />
         <BookList/>
       </div>
     )
