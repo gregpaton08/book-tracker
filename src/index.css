@@ -13,3 +13,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.book-list-container {
+  width: 900px;
+  margin: 25px auto;
+  background-color: #bbbbbb;
+  border-radius: 5px;
+}
+
+.book-list-container h2 {
+  text-align: left;
+}
