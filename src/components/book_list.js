@@ -20,7 +20,7 @@ export class BookList extends React.Component {
     }
     
     return (
-      <table>
+      <table className='book-list'>
         <tbody>
           {Object.values(this.props.books).map((book, index) => (
             <tr key={`${index}${book.title}`}>
