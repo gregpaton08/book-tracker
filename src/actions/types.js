@@ -9,6 +9,8 @@ function createTypes() {
   addType('REQUEST_BOOKS')
   addType('REMOVE_BOOK')
 
+  addType('SET_SEARCH_TERM')
+
   return types;
 }
 

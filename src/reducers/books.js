@@ -1,7 +1,8 @@
 import types from '../actions/types'
 
 const INITIAL_STATE = {
-  isFetching: false
+  isFetching: false,
+  searchTerm: ''
 }
 
 export default function(state = INITIAL_STATE, action) {
@@ -34,6 +35,11 @@ export default function(state = INITIAL_STATE, action) {
       return {
         ...state,
         books
+      }
+    case types.SET_SEARCH_TERM:
+      return {
+        ...state,
+        searchTerm: action.payload
       }
     default:
       return state

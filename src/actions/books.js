@@ -46,3 +46,8 @@ export const deleteBook = (bookId) =>
       dispatch(removeBook(bookId))
     })
   }
+
+export const setSearchTerm = (searchTerm) => ({
+  type: types.SET_SEARCH_TERM,
+  payload: searchTerm
+})

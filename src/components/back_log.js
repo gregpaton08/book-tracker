@@ -3,14 +3,6 @@ import PropTypes from 'prop-types'
 import BookList from '../containers/book_list'
 
 export class BackLog extends React.Component {
-  constructor(props) {
-    super(props)
-
-    this.state = {
-      searchTerm: ''
-    }
-  }
-
   render() {
     return (
       <div className='book-list-container'>
@@ -20,10 +12,7 @@ export class BackLog extends React.Component {
           placeholder='search'
           onChange={(event) => {
             const searchTerm = event.target.value
-            this.setState(state => ({
-              ...state,
-              searchTerm
-            }))
+            this.props.setSearchTerm(searchTerm)
           }}
         />
         <BookList />
@@ -33,5 +22,5 @@ export class BackLog extends React.Component {
 }
 
 BackLog.propTypes = {
-
+  setSearchTerm: PropTypes.func.isRequired
 }

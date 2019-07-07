@@ -8,8 +8,8 @@ import '../style/book_list.css'
 
 export class BookList extends React.Component {
   componentDidMount() {
-    // TODO: move this to container?
-    if (!this.props.books) {
+    // TODO: move this to container? YES
+    if (!this.props.books || this.props.books.length === 0) {
       this.props.fetchBooks()
     }
   }
@@ -22,7 +22,7 @@ export class BookList extends React.Component {
     return (
       <table className='book-list'>
         <tbody>
-          {Object.values(this.props.books).map((book, index) => (
+          {this.props.books.map((book, index) => (
             <tr key={`${index}${book.title}`}>
               <td>{book.title}</td>
               <td>
@@ -43,10 +43,8 @@ export class BookList extends React.Component {
 
 BookList.propTypes = {
   // TODO: figure this shit out
-  books: PropTypes.shape({
-    id: PropTypes.shape({
+  books: PropTypes.arrayOf(PropTypes.shape({
 
-    })
-  }),
+  })),
   deleteBook: PropTypes.func.isRequired
 }

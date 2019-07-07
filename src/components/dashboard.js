@@ -2,7 +2,7 @@ import React from 'react'
 import { logout } from  '../database_connection'
 import { Link } from "react-router-dom"
 import InProgress from '../containers/in_progress'
-import { BackLog } from './back_log'
+import BackLog from '../containers/back_log'
 
 export class Dashboard extends React.Component {
   render() {
