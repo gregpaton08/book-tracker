@@ -1,0 +1,9 @@
+## example provided by google
+curl -X GET https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=AIzaSyCM-dL3TmHBSD6eZhO_cT_o7POgZdk2AkQ
+
+
+## this doesn't work for some reason...
+curl -X GET https://www.googleapis.com/books/v1/volumes?q=intitle=the+black+swan&key=AIzaSyCM-dL3TmHBSD6eZhO_cT_o7POgZdk2AkQ
+
+## search for "the black swan"
+curl -X GET https://www.googleapis.com/books/v1/volumes?q=the+black+swan&key=AIzaSyCM-dL3TmHBSD6eZhO_cT_o7POgZdk2AkQ
