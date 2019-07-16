@@ -8,7 +8,28 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 
 
 
-
+Thinking in Systems: A Primer, Donella H. Meadows
+The Tangled Web: A Guide to Securing Modern Web Applications, Michal Zalewski
+Gray Hat Python: Python Programming for Hackers and Reverse Engineers, Justin Seitz
+Black Hat Python: Python Programming for Hackers and Pentesters, Justin Seitz
+Leviathan, Thomas Hobbes 
+Make It Stick: The Science of Successful Learning, Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel 
+Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive, Kevin Horsley
+Memory Improvement: How To Improve Your Memory In Just 30 Days, Ron White
+Waking Up: A Guide to Spirituality Without Religion, Sam Harris
+10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story, Dan Harris
+Skin in the Game: Hidden Asymmetries in Daily Life, Nassim Nicholas Taleb (Author) 
+Thinking, Fast and Slow Paperback, Daniel Kahneman
+Introduction to Probability, 2nd Edition, Dimitri P. Bertsekas 
+On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Jeff Hawkins 
+Swim with the Sharks Without Being Eaten Alive: Outsell, Outmanage, Outmotivate, and Outnegotiate Your Competition, Harvey B. Mackay
+The Master and Margarita, Mikhail Bulgakov
+Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture, David Kushner
+Principles: Life and Work, Ray Dalio
+The Checklist Manifesto: How to Get Things Right, Atul Gawande
+The Humongous Book of Calculus Problems, W. Michael Kelley
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, Martin Kleppmann
+Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths
 The Black Swan: Second Edition: The Impact of the Highly Improbable, Nassim Nicholas Taleb
 Programming Languages: Principles and Paradigms, Maurizio Gabbrielli, Simone Martini
 The Human Comedy: Selected Stories, Honore de Balzac
@@ -25,6 +46,7 @@ The Brothers Karamazov, Fyodor Dostoevsky
 The Collected Tales of Nikolai Gogol, Nikolai Vasilevich
 Anna Karenina, Leo Tolstoy
 Priceless: How I Went Undercover to Rescue the World's Stolen Treasures, Robert K. Wittman, John Shiffman
+Slaughterhouse Five, Kurt Vonnegut
 Wampeters, Foma & Granfalloons, Kurt Vonnegut
 Introduction to Data Mining, Michael Steinbach, Pang-Ning Tan, and Vipin Kumar
 Super Thinking: The Big Book of Mental Models, Gabriel Weinberg, Lauren McCann
@@ -135,7 +157,7 @@ Coders at Work: Reflections on the Craft of Programming	Coders at Work: Reflecti
 Compilers: Principles, Techniques, and Tools	Compilers: Principles, Techniques, and Tools, Alfred V. Aho, Ravi Sethi (Hardcover)
 Foundation	Foundation, Isaac Asimov (Mass Market Paperback)
 The Elements of Statistical Learning Data Mining, Inference, and Prediction, Second Edition by Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome [Springer,2009] (Hardcover) 2nd Edition	The Elements of Statistical Learning Data Mining, Inference, and Prediction, Second Edition by Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome [Springer,2009] (Hardcover) 2nd Edition, aa (Paperback)
-Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series)	Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series), Jon Krohn, Grant Beyleveld (Paperback)
+Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series), Jon Krohn, Grant Beyleveld
 Love and Math: The Heart of Hidden Reality	Love and Math: The Heart of Hidden Reality, Edward Frenkel (Paperback)
 Insanely Simple: The Obsession That Drives Apple's Success	Insanely Simple: The Obsession That Drives Apple's Success, Ken Segall (Paperback)
 The Future of Capitalism: Facing the New Anxieties	The Future of Capitalism: Facing the New Anxieties, Paul Collier (Hardcover)
