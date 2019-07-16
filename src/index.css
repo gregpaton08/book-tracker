@@ -15,7 +15,7 @@ code {
 }
 
 .book-list-container {
-  width: 900px;
+  max-width: 900px;
   margin: 25px auto;
   background-color: #bbbbbb;
   border-radius: 5px;

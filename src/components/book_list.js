@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { Link } from 'react-router-dom'
 import { FaTrashAlt } from 'react-icons/fa'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
@@ -24,7 +25,9 @@ export class BookList extends React.Component {
         <tbody>
           {this.props.books.map((book, index) => (
             <tr key={`${index}${book.title}`}>
-              <td>{book.title}</td>
+              <Link to={`/book?id=${book.id}`}>
+                <td>{book.title}</td>
+              </Link>
               <td>
                 <button
                   style={{ backgroundColor: 'Transparent', border: 'none' }}

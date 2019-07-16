@@ -3,7 +3,7 @@ import { BackLog } from '../components/back_log'
 import { setSearchTerm } from '../actions/books'
 
 const mapStateToProps = (state, props) => {
-  
+  return state
 }
 
 const mapDispatchToProps = {

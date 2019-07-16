@@ -16,8 +16,11 @@ const getFilteredBooks = (searchTerm, books) => {
 }
 
 const mapStateToProps = (state, props) => {
+  // TODO: create a generic filter function (e.g. status === "in progress")
+  const books = getFilteredBooks(state.books.searchTerm, state.books.books)
+      .filter(book => book.status !== 'in progress' && book.status !== 'read')
   return {
-    books: getFilteredBooks(state.books.searchTerm, state.books.books)
+    books
   }
 }
 
