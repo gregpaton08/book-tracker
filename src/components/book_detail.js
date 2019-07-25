@@ -3,8 +3,17 @@ import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
 
 export class BookDetail extends React.Component {
+  componentDidMount() {
+    if (!this.props.book) {
+      this.props.fetchBooks()
+    }
+  }
+  
   render() {
-    console.error('BookDetail', this.props.book)
+    if (!this.props.book) {
+      return <div>loading...</div>
+    }
+
     return (
       <div>
 
