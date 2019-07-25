@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
 import { FaTrashAlt } from 'react-icons/fa'
+import DeleteBookButton from '../containers/delete_book_button'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'shards-ui/dist/css/shards.min.css'
@@ -31,12 +32,7 @@ export class BookList extends React.Component {
                 </Link>
               </td>
               <td>
-                <button
-                  style={{ backgroundColor: 'Transparent', border: 'none' }}
-                  onClick={() => this.props.deleteBook(book.id)}
-                >
-                  <FaTrashAlt />
-                </button>
+                <DeleteBookButton bookId={book.id} />
               </td>
             </tr>
           ))}
