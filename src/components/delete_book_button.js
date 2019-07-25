@@ -7,7 +7,10 @@ export class DeleteBookButton extends React.Component {
     return (
       <button
         style={{ backgroundColor: 'Transparent', border: 'none' }}
-        onClick={() => this.props.deleteBook(this.props.bookId)}
+        onClick={() => {
+          this.props.deleteBook(this.props.bookId)
+          this.props.onClick()
+        }}
       >
         <FaTrashAlt />
       </button>
@@ -15,7 +18,12 @@ export class DeleteBookButton extends React.Component {
   }
 }
 
+DeleteBookButton.defaultProps = {
+  onClick: () => {}
+}
+
 DeleteBookButton.propTypes = {
   bookId: PropTypes.string.isRequired,
-  deleteBook: PropTypes.func.isRequired
+  deleteBook: PropTypes.func.isRequired,
+  onClick: PropTypes.func
 }
