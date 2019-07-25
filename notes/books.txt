@@ -7,8 +7,19 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 
 
 
-
-
+Psycho-Cybernetics: Updated and Expanded - Maxwell Maltz
+The Case for Mars: The Plan to Settle the Red Planet and Why We Must - Robert Zubrin
+Entering Space: Creating a Spacefaring Civilization - Robert Zubrin
+Sam Walton: Made In America - Sam Walton
+Grow Rich!: With Peace of Mind - Napoleon Hill
+The Attention Merchants: The Epic Scramble to Get Inside Our Heads - Tim Wu
+Geek Heresy: Rescuing Social Change from the Cult of Technology - Kentaro Toyama
+Present Shock: When Everything Happens Now - Douglas Rushkoff
+Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked - Adam Alter
+The Glass Cage: How Our Computers Are Changing Us - Nicholas Carr
+When Gadgets Betray Us - Robert Vamosi 
+It's Called Work for a Reason!: Your Success Is Your Own Damn Fault - Larry Winget
+Impro - Keith Johnstone
 Cold Cash, Cool Climate: Science-Based Advice for Ecological Entrepreneurs, Jonathan Koomey
 Thinking in Systems: A Primer, Donella H. Meadows
 The Tangled Web: A Guide to Securing Modern Web Applications, Michal Zalewski
@@ -223,7 +234,7 @@ G is for Genes: The Impact of Genetics on Education and Achievement	G is for Gen
 Blueprint: How DNA Makes Us Who We Are (The MIT Press)	Blueprint: How DNA Makes Us Who We Are (The MIT Press), Robert Plomin (Hardcover)
 Pattern Classification (Pt.1)	Pattern Classification (Pt.1), Richard O. Duda, Peter E. Hart (Hardcover)
 Pattern Recognition and Machine Learning (Information Science and Statistics)	Pattern Recognition and Machine Learning (Information Science and Statistics), Christopher M. Bishop (Hardcover)
-The Revenge of Analog: Real Things and Why They Matter	The Revenge of Analog: Real Things and Why They Matter, David Sax (Paperback)
+The Revenge of Analog: Real Things and Why They Matter, David Sax
 Growing Object-Oriented Software, Guided by Tests	Growing Object-Oriented Software, Guided by Tests, Steve Freeman, Nat Pryce (Paperback)
 In Search of Excellence : Lessons from America's Best-Run Companies	In Search of Excellence : Lessons from America's Best-Run Companies, aa (Paperback)
 Irrational Exuberance 3rd edition	Irrational Exuberance 3rd edition, Robert J. Shiller (Hardcover)
