@@ -50,6 +50,17 @@ export const addBook = (title, author) => {
   })
 }
 
+export const updateBook = (bookId, fieldsToUpdate) => {
+  return db.collection("books").doc(bookId).update(fieldsToUpdate)
+  .then(function() {
+      console.log("Document successfully updated!");
+  })
+  .catch(function(error) {
+      // The document probably doesn't exist.
+      console.error("Error updating document: ", error);
+  })
+}
+
 export const deleteBook = (bookId) => {
   return db.collection("books").doc(bookId).delete().then(() => {
     console.log("Document successfully deleted!")

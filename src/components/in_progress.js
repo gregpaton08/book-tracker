@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { Link } from 'react-router-dom'
 import '../style/in_progress.css'
 
 export class InProgress extends React.Component {
@@ -11,10 +12,12 @@ export class InProgress extends React.Component {
         <div className='book-tile-container'>
           {this.props.books.map((book) => (
             <div className='book-tile' key={book.id}>
-              <h3>
-                {book.title}
-              </h3>
-              {book.author}
+              <Link to={`/book?id=${book.id}`}>
+                <h3>
+                  {book.title}
+                </h3>
+                {book.author}
+              </Link>
             </div>
           ))}
         </div>

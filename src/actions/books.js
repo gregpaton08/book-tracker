@@ -1,5 +1,14 @@
 import types from './types'
-import { readBooks, addBook as addBookToDataBase, deleteBook as deleteBookFromDataBase } from '../database_connection'
+import {
+  readBooks as readBooksFromDatabase,
+  addBook as addBookToDataBase,
+  deleteBook as deleteBookFromDataBase,
+  updateBook as updateBookInDataBase
+} from '../database_connection'
+
+////////////////////////////////////////
+// CREATE
+////////////////////////////////////////
 
 export const addBook = (book) => ({
   type: types.ADD_BOOK,
@@ -16,6 +25,11 @@ export const addBooks = (books) => ({
   payload: books
 })
 
+
+////////////////////////////////////////
+// READ
+////////////////////////////////////////
+
 export const requestBooks = () => ({
   type: types.REQUEST_BOOKS
 })
@@ -26,13 +40,31 @@ export const fetchBooks = () =>
       return Promise.resolve()
     }
     dispatch(requestBooks())
-    readBooks()
+    readBooksFromDatabase()
     .then((books) => {
       const booksObject = {}
       books.forEach(book => booksObject[book.id] = book)
       dispatch(addBooks(booksObject))
     })
   }
+
+
+////////////////////////////////////////
+// UPDATE
+////////////////////////////////////////
+
+export const updateBookStatus = (bookId, status) =>
+  (dispatch, getState) => {
+    updateBookInDataBase(bookId, { status })
+    .then(() => {
+      // TODO: update the book's status in REDUX
+    })
+  }
+
+
+////////////////////////////////////////
+// DELETE
+////////////////////////////////////////
 
 export const removeBook = (bookId) => ({
   type: types.REMOVE_BOOK,
