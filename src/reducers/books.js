@@ -25,6 +25,18 @@ export default function(state = INITIAL_STATE, action) {
         },
         isFetching: true
       }
+    case types.UPDATE_BOOK:
+      const bookToUpdate = action.payload
+      return {
+        ...state,
+        books: {
+          ...(state.books ? state.books : {}),
+          [bookToUpdate.id]: {
+            ...state.books[bookToUpdate.id],
+            ...bookToUpdate
+          }
+        }
+      }
     case types.REQUEST_BOOKS:
       return {
         ...state,

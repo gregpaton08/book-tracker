@@ -7,8 +7,11 @@ import reducers from './reducers'
 import './index.css'
 import App from './App'
 import * as serviceWorker from './serviceWorker'
+import { setReduxStore } from './database_connection'
 
 const store = createStore(reducers, applyMiddleware(thunkMiddleware))
+
+setReduxStore(store)
 
 ReactDOM.render(
   <Provider store={store}>

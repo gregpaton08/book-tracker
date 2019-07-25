@@ -25,9 +25,11 @@ export class BookList extends React.Component {
         <tbody>
           {this.props.books.map((book, index) => (
             <tr key={`${index}${book.title}`}>
-              <Link to={`/book?id=${book.id}`}>
-                <td>{book.title}</td>
-              </Link>
+              <td>
+                <Link to={`/book?id=${book.id}`}>
+                  {book.title}
+                </Link>
+              </td>
               <td>
                 <button
                   style={{ backgroundColor: 'Transparent', border: 'none' }}

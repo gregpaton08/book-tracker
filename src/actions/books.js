@@ -18,7 +18,7 @@ export const addBook = (book) => ({
 export const addNewBook = (book) =>
   (dispatch, getState) =>
     addBookToDataBase(book.title, book.author)
-    .then(() => dispatch(addBook(book)))
+    .then((newBook) => dispatch(addBook(newBook)))
 
 export const addBooks = (books) => ({
   type: types.ADD_BOOKS,
@@ -53,11 +53,20 @@ export const fetchBooks = () =>
 // UPDATE
 ////////////////////////////////////////
 
+export const updateBook = (bookId, bookInfo) => ({
+  type: types.UPDATE_BOOK,
+  payload: {
+    ...bookInfo,
+    id: bookId
+  }
+})
+
 export const updateBookStatus = (bookId, status) =>
   (dispatch, getState) => {
     updateBookInDataBase(bookId, { status })
     .then(() => {
       // TODO: update the book's status in REDUX
+      dispatch(updateBook(bookId, { status }))
     })
   }
 

@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Route } from "react-router-dom"
-import { Dashboard } from './components/dashboard'
+import Dashboard from './containers/dashboard'
 import AddBook from './containers/add_book'
 import BookDetail from './containers/book_detail'
-import { Login } from './components/login'
+import Login from './containers/login'
 import './App.css'
 
 class App extends Component {

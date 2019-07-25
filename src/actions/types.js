@@ -4,14 +4,17 @@ function createTypes() {
     types[type] = type
   }
 
+  addType('SET_USER_LOGGED_IN')
+
   addType('ADD_BOOK')
   addType('ADD_BOOKS')
+  addType('UPDATE_BOOK')
   addType('REQUEST_BOOKS')
   addType('REMOVE_BOOK')
 
   addType('SET_SEARCH_TERM')
 
-  return types;
+  return types
 }
 
 const types = createTypes()
