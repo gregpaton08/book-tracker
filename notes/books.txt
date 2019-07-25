@@ -8,6 +8,8 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 
 
 
+
+Cold Cash, Cool Climate: Science-Based Advice for Ecological Entrepreneurs, Jonathan Koomey
 Thinking in Systems: A Primer, Donella H. Meadows
 The Tangled Web: A Guide to Securing Modern Web Applications, Michal Zalewski
 Gray Hat Python: Python Programming for Hackers and Reverse Engineers, Justin Seitz

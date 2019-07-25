@@ -4,7 +4,6 @@
   "private": true,
   "author": "Gregory Paton",
   "license": "ISC",
-  "homepage": "https://github.com/gregpaton08/book-tracker#readme",
   "bugs": {
     "url": "https://github.com/gregpaton08/book-tracker/issues"
   },
@@ -15,7 +14,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "express": "^4.16.4",
-    "firebase": "^6.2.0",
+    "firebase": "^6.3.1",
     "mongodb": "^3.1.12",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
