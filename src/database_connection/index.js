@@ -79,10 +79,4 @@ export const updateBook = (bookId, fieldsToUpdate) => {
   })
 }
 
-export const deleteBook = (bookId) => {
-  return db.collection("books").doc(bookId).delete().then(() => {
-    console.log("Document successfully deleted!")
-  }).catch((error) => {
-    console.error("Error removing document: ", error)
-  })
-}
+export const deleteBook = (bookId) => updateBook(bookId, { deletedOn: new Date() })
