@@ -7,6 +7,8 @@ The Linux Programming Interface: A Linux and UNIX System Programming Handbook, M
 
 
 
+White Noise - Don DeLillo
+The Signal and the Noise - Nate Silver
 Psycho-Cybernetics: Updated and Expanded - Maxwell Maltz
 The Case for Mars: The Plan to Settle the Red Planet and Why We Must - Robert Zubrin
 Entering Space: Creating a Spacefaring Civilization - Robert Zubrin
