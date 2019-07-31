@@ -4,6 +4,7 @@ import Dashboard from './containers/dashboard'
 import AddBook from './containers/add_book'
 import BookDetail from './containers/book_detail'
 import Login from './containers/login'
+import Search from './containers/search'
 import './App.css'
 
 class App extends Component {
@@ -15,6 +16,7 @@ class App extends Component {
           <Route path='/add_book' component={AddBook} />
           <Route path='/book' component={BookDetail} />
           <Route path='/login' component={Login} />
+          <Route path='/search' component={Search} />
         </div>
       </Router>
     )
