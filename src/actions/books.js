@@ -53,7 +53,7 @@ export const fetchBooks = () =>
 // UPDATE
 ////////////////////////////////////////
 
-export const updateBook = (bookId, bookInfo) => ({
+const setBook = (bookId, bookInfo) => ({
   type: types.UPDATE_BOOK,
   payload: {
     ...bookInfo,
@@ -61,12 +61,24 @@ export const updateBook = (bookId, bookInfo) => ({
   }
 })
 
+export const updateBook = (bookId, fieldsToUpdate) =>
+  (dispatch, getState) => {
+    updateBookInDataBase(bookId, fieldsToUpdate)
+    .then(() => {
+      dispatch(setBook(bookId, fieldsToUpdate))
+    })
+  }
+
 export const updateBookStatus = (bookId, status) =>
   (dispatch, getState) => {
-    updateBookInDataBase(bookId, { status })
+    const completedOn = status == 'read' ? new Date() : null
+    updateBookInDataBase(bookId, { status, completedOn })
     .then(() => {
       // TODO: update the book's status in REDUX
-      dispatch(updateBook(bookId, { status }))
+      const convertedCompletedOn = completedOn ?
+        { seconds: completedOn.valueOf() / 1000 } :
+        null
+      dispatch(setBook(bookId, { status, completedOn: convertedCompletedOn }))
     })
   }
 

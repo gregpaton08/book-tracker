@@ -3,6 +3,12 @@ import PropTypes from 'prop-types'
 import { Redirect, Link } from 'react-router-dom'
 import DeleteBookButtom from '../containers/delete_book_button'
 
+const convertDate = (date) => date ?
+  date.seconds ?
+    new Date(date.seconds * 1000) :
+    date :
+  undefined
+
 export class BookDetail extends React.Component {
   constructor(props) {
     super(props)
@@ -27,6 +33,10 @@ export class BookDetail extends React.Component {
       return <div>loading...</div>
     }
 
+    let purchasedOn = convertDate(this.props.book.purchasedOn)
+
+    let completedOn = convertDate(this.props.book.completedOn)
+
     return (
       <div>
         <Link to='/'>
@@ -36,7 +46,13 @@ export class BookDetail extends React.Component {
         <p>{this.props.book.author}</p>
         <select
           onChange={(event) => {
-            this.props.updateBookStatus(this.props.book.id, event.target.value)
+            const status = event.target.value
+            const completedOn = status == 'read' ? new Date() : null
+            const updates = {
+              status,
+              completedOn
+            }
+            this.props.updateBook(this.props.book.id, updates)
           }}
           value={this.props.book.status}
         >
@@ -48,6 +64,25 @@ export class BookDetail extends React.Component {
           bookId={this.props.book.id}
           onClick={() => this.setState((state) => ({ ...state, isBookDeleted: true }))}
         />
+        {purchasedOn &&
+          <div>
+            <div>Purchased on {purchasedOn.toDateString()}</div>
+            <label>Format</label>
+            <select
+              onChange={(event) => {
+                // this.props.updateBookStatus(this.props.book.id, event.target.value)
+              }}
+              value={this.props.book.status}
+            >
+              <option value='physical'>physical</option>
+              <option value='digital'>digital</option>
+              <option value='audio'>audio</option>
+            </select>
+          </div>
+        }
+        {completedOn &&
+          <div>Finished reading on {completedOn.toDateString()}</div>
+        }
       </div>
     )
   }
@@ -58,5 +93,5 @@ BookDetail.propTypes = {
     title: PropTypes.string.isRequired,
     author: PropTypes.string.isRequired
   }).isRequired,
-  updateBookStatus: PropTypes.func.isRequired
+  updateBook: PropTypes.func.isRequired
 }
