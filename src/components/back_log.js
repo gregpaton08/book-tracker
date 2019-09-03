@@ -9,6 +9,7 @@ export class BackLog extends React.Component {
         <h2>Back Log</h2>
         <input
           type='text'
+          value={this.props.searchTerm}
           placeholder='search'
           onChange={(event) => {
             const searchTerm = event.target.value
@@ -22,5 +23,6 @@ export class BackLog extends React.Component {
 }
 
 BackLog.propTypes = {
+  searchTerm: PropTypes.string.isRequired,
   setSearchTerm: PropTypes.func.isRequired
 }
