@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
-import DeleteBookButton from '../containers/delete_book_button'
 
 import 'shards-ui/dist/css/shards.min.css'
 import '../style/book_list.css'
@@ -28,9 +27,6 @@ export class BookList extends React.Component {
                 <Link to={`/book?id=${book.id}`}>
                   {book.title}
                 </Link>
-              </td>
-              <td>
-                <DeleteBookButton bookId={book.id} />
               </td>
             </tr>
           ))}
