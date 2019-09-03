@@ -4,8 +4,17 @@ import { Link } from 'react-router-dom'
 import '../style/in_progress.css'
 
 export class InProgress extends React.Component {
+  shouldComponentUpdate(nextProps, nextState) {
+    const nextBooks = nextProps.books
+    if (nextBooks.length == this.props.books.length &&
+        Object.keys(nextBooks).every(key => this.props.books.hasOwnProperty(key))) {
+      return false
+    }
+    return true
+  }
+
   render() {
-    console.log('render', this.props)
+    console.log('render inProgress', this.props)
     return (
       <div className='book-list-container'>
         <h2>In Progress</h2>

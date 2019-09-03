@@ -2,7 +2,8 @@ import types from '../actions/types'
 
 const INITIAL_STATE = {
   isFetching: false,
-  searchTerm: ''
+  searchTerm: '',
+  books: {}
 }
 
 export default function(state = INITIAL_STATE, action) {

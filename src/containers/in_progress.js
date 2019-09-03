@@ -1,12 +1,17 @@
 import { connect } from 'react-redux'
 import { InProgress } from '../components/in_progress'
-// import { fetchBooks, deleteBook } from '../actions/books'
+import { createSelector } from 'reselect'
+
+const getBooks = state => Object.values(state.books.books)
+
+const getInProgressBooks = createSelector(
+  [getBooks],
+  books => books.filter(book => book.status === 'in progress')
+)
 
 const mapStateToProps = (state, props) => {
-  const books = Object.values(state.books.books ? state.books.books : {})
-  const inProgressBooks = books.filter(book => book.status === 'in progress')
   return {
-    books: inProgressBooks
+    books: getInProgressBooks(state)
   }
 }
 
