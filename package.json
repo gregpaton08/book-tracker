@@ -12,7 +12,6 @@
     "url": "git+ssh://git@github.com/gregpaton08/book-tracker.git"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1",
     "express": "^4.16.4",
     "firebase": "^6.3.1",
     "mongodb": "^3.1.12",

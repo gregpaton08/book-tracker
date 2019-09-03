@@ -1,10 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
-import { FaTrashAlt } from 'react-icons/fa'
 import DeleteBookButton from '../containers/delete_book_button'
 
-import 'bootstrap/dist/css/bootstrap.min.css'
 import 'shards-ui/dist/css/shards.min.css'
 import '../style/book_list.css'
 
