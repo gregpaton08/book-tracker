@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Route } from "react-router-dom"
+import PrivateRoute from './containers/private_route'
+import MainHeader from './containers/header'
 import Dashboard from './containers/dashboard'
 import AddBook from './containers/add_book'
 import BookDetail from './containers/book_detail'
@@ -12,7 +14,8 @@ class App extends Component {
     return (
       <Router>
         <div className="App">
-          <Route path='/' exact component={Dashboard} />
+          <MainHeader />
+          <PrivateRoute path='/' exact component={Dashboard} />
           <Route path='/add_book' component={AddBook} />
           <Route path='/book' component={BookDetail} />
           <Route path='/login' component={Login} />

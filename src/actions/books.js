@@ -71,7 +71,7 @@ export const updateBook = (bookId, fieldsToUpdate) =>
 
 export const updateBookStatus = (bookId, status) =>
   (dispatch, getState) => {
-    const completedOn = status == 'read' ? new Date() : null
+    const completedOn = status === 'read' ? new Date() : null
     updateBookInDataBase(bookId, { status, completedOn })
     .then(() => {
       // TODO: update the book's status in REDUX

@@ -47,7 +47,7 @@ export class BookDetail extends React.Component {
         <select
           onChange={(event) => {
             const status = event.target.value
-            const completedOn = status == 'read' ? new Date() : null
+            const completedOn = status === 'read' ? new Date() : null
             const updates = {
               status,
               completedOn

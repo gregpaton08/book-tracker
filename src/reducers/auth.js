@@ -1,7 +1,8 @@
 import types from '../actions/types'
 
 const INITIAL_STATE = {
-  userIsLoggedIn: null
+  userIsLoggedIn: null,
+  currentUser: null
 }
 
 export default function(state = INITIAL_STATE, action) {
@@ -10,6 +11,11 @@ export default function(state = INITIAL_STATE, action) {
       return {
         ...state,
         userIsLoggedIn: action.payload
+      }
+    case types.SET_CURRENT_USER:
+      return {
+        ...state,
+        currentUser: action.payload
       }
     default:
       return state

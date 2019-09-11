@@ -6,7 +6,7 @@ import '../style/in_progress.css'
 export class InProgress extends React.Component {
   shouldComponentUpdate(nextProps, nextState) {
     const nextBooks = nextProps.books
-    if (nextBooks.length == this.props.books.length &&
+    if (nextBooks.length === this.props.books.length &&
         Object.keys(nextBooks).every(key => this.props.books.hasOwnProperty(key))) {
       return false
     }

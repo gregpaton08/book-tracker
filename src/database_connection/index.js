@@ -1,4 +1,4 @@
-import { setUserLoggedIn } from '../actions/auth'
+import { setUserLoggedIn, setCurrentUser } from '../actions/auth'
 const firebase = require("firebase")
 require("firebase/firestore")
 
@@ -15,15 +15,15 @@ export const setReduxStore = (store) => reduxStore = store
 
 var provider = new firebase.auth.GoogleAuthProvider()
 
-export const getUser = () => console.error('user = ', firebase.auth().currentUser)
-
 export const login = () => {
   firebase.auth().signInWithRedirect(provider)
   .then(() => console.error('user = ', firebase.auth().currentUser))
 }
 
 firebase.auth().onAuthStateChanged((user) => {
+  console.log('onAuthStateChanged')
   if (reduxStore) {
+    reduxStore.dispatch(setCurrentUser(user))
     reduxStore.dispatch(setUserLoggedIn(!!user))
   }
 })
@@ -33,6 +33,7 @@ export const isUserLoggedIn = () => !!firebase.auth().currentUser
 export const logout = () => {
   firebase.auth().signOut().then(function() {
     // Sign-out successful.
+    reduxStore.dispatch(setCurrentUser(null))
   }).catch(function(error) {
     // An error happened.
   })

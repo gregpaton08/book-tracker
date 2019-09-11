@@ -40,3 +40,25 @@ textarea {
 button {
   cursor: pointer;
 }
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #bbbbbb;
+  height: 36px;
+  align-items: center;
+}
+
+.main-header a:hover {
+  text-decoration: none;
+  /* background-color: white; */
+}
+
+.main-header-right {
+  display: flex;
+  justify-content: stretch;
+}
+
+.main-header-item {
+  padding: 0px 5px;
+}
