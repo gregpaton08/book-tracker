@@ -208,7 +208,7 @@ Organizing Solutions for People with ADHD, 2nd Edition-Revised and Updated: Tips
 The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture	The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture, John Battelle (Kindle Edition)
 Effective Programming: More Than Writing Code	Effective Programming: More Than Writing Code, Jeff Atwood (Paperback)
 The Basic Works of Aristotle (Modern Library Classics)	The Basic Works of Aristotle (Modern Library Classics), Aristotle, Richard McKeon (Paperback)
-The Minority Report and Other Classic Stories By Philip K. Dick	The Minority Report and Other Classic Stories By Philip K. Dick, Philip K. Dick (Paperback)
+The Minority Report and Other Classic Stories By Philip K. Dick
 How to Live on Twenty-Four Hours a Day	How to Live on Twenty-Four Hours a Day, Arnold Bennett (Paperback)
 Handmade: Creative Focus in the Age of Distraction	Handmade: Creative Focus in the Age of Distraction, Gary Rogowski (Paperback)
 The Science of Fate: Why Your Future is More Predictable Than You Think	The Science of Fate: Why Your Future is More Predictable Than You Think, Hannah Critchlow (Hardcover)
@@ -468,7 +468,7 @@ Creating Affluence: The A-to-Z Steps to a Richer Life, Deepak Chopra, Richard Ca
 Ratio: The Simple Codes Behind the Craft of Everyday Cooking, Michael Ruhlman
 Sane New World: Taming the Mind, Ruby Wax
 Steak: One Man's Search for the World's Tastiest Piece of Beef, Mark Schatzker
-Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time, Keith Ferrazzi, Tahl Raz
+Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time === Keith Ferrazzi, Tahl Raz
 Mind Over Water: Lessons on Life from the Art of Rowing, Craig Lambert
 The Perfect Protein: The Fish Lover's Guide to Saving the Oceans and Feeding the World, Andy Sharpless, Suzannah Evans
 The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health, Thomas Campbell, T. Colin Campbell
@@ -489,3 +489,6 @@ Software Engineering: (Update) (8th Edition), Ian Sommerville
 Code Complete: A Practical Handbook of Software Construction, Second Edition, Steve McConnell
 Snow Crash, Neal Stephenson
 Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers, David Perlmutter, Kristin Loberg
+When Breath Becomes Air === Paul Kalanithi 
+A New Earth: Awakening to Your Life's Purpose === Eckhart Tolle
+Decorating with Style == Abigail Ahern
